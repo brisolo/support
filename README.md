@@ -16,7 +16,7 @@ for help, open an issue at
 
 | Plugin | Platform | Privacy |
 |---|---|---|
-| EntregaFlow — Correios contract shipping for WooCommerce | WordPress | [privacy/entregaflow.md](privacy/entregaflow.md) |
+| EntregaFlow Contract Shipping with Correios for WooCommerce | WordPress | [privacy/entregaflow.md](privacy/entregaflow.md) |
 
 ## EntregaFlow
 
